@@ -123,7 +123,6 @@ a[title] {
 }
 
 .feature-description {
-    font-weight: 400;
     font-size: 14px;
     line-height: 1.7;
 }
@@ -159,10 +158,9 @@ a[title] {
 }
 
 .portfolio .subtitle {
-    font-weight: 400;
     font-size: 16px;
     line-height: 1.9;
-    
+
 }
 
 .filters .button {
@@ -200,8 +198,6 @@ a[title] {
 
 a[href="https://www.google.com/maps/place/Lesi+Ukrainky+Blvd,+26,+Kyiv,+Ukraine,+02000/@50.4265807,30.5361971,17z/data=!3m1!4b1!4m5!3m4!1s0x40d4cf0e033ecbe9:0x57a4dffefec77da0!8m2!3d50.4265807!4d30.5383858"] {
  color: var(--main-white-color);
-
- font-weight: 400; 
  font-size: 14px;
  line-height: 1.7;
 
@@ -209,7 +205,6 @@ a[href="https://www.google.com/maps/place/Lesi+Ukrainky+Blvd,+26,+Kyiv,+Ukraine,
 a[href="mailto:info@example.com"], 
 a[href="tel:+380991111111"] {
     color: var(--additional-text-color);
-    font-weight: 400;
     font-size: 14px;
     line-height: 1.7;
 }
